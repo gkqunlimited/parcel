@@ -1,0 +1,13 @@
+pricing:
+  heavy-parcel-rate: 20
+  small-parcel-rate: 0.03
+  medium-parcel-rate: 0.04
+  large-parcel-rate: 0.05
+max:
+  weight: 50
+  heavy-weight: 10
+  small-volume: 1500
+  medium-volume: 2500
+voucher:
+  api:
+    url: https://mynt-exam.mocklab.io/voucher/
